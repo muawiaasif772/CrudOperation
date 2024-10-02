@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "cdeb",
+      "name": "muawia asif",
+      "email": "muawiaasif772@gmail.com",
+      "phone": "03006873200"
+    },
+    {
+      "id": "48ac",
+      "name": "hamza asif",
+      "email": "hamza@gmail.com",
+      "phone": "03336868835"
+    },
+    {
+      "name": "salh ",
+      "email": "salh@gmail.com",
+      "phone": "03036926918",
+      "id": "2bc5"
+    },
+    {
+      "id": "f66d",
+      "name": "Muhammad Asif",
+      "email": "muawiaasif772@gmail.com",
+      "phone": "03006873200"
+    }
+  ]
+}
